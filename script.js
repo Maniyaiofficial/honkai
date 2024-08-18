@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const paymentMethod = document.querySelector('input[name="payment-method"]:checked');
         const paymentOption = paymentMethod ? paymentMethod.value : 'Not selected';
         const timestamp = new Date().toLocaleString();
-        const productId = selectedPackage ? selectedPackage.querySelector('.details h3').textContent + " Diamonds(MLBB)" : 'Not selected'; // Get the selected package ID
+        const productId = selectedPackage ? selectedPackage.querySelector('.details h3').textContent + pubg " )" : 'Not selected'; // Get the selected package ID
 
         // Construct the invoice message
         const invoiceMessage = `
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 Time: ${timestamp} 
 ------------------------------------------------------
 *User ID*: (${userId})
-Zone ID: ${zoneId}
+
 *Product : ${productId}*
 *Mode of Payment* : ${paymentOption}
 ------------------------------------------------------
