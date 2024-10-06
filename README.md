@@ -1,4 +1,4 @@
-# MANIYAI OFFICIAL pubg
+# hoikainu
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Infinite-Gamers/pen/ExBvQEw](https://codepen.io/Infinite-Gamers/pen/ExBvQEw).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/rahito/pen/dyxXdPK](https://codepen.io/rahito/pen/dyxXdPK).
 
